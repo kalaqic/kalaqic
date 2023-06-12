@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalaqic
-- 👀 I’m currently learning Flutter
+- 👀 I’m currently learning how to live life properly
 - 💞️ I’m collaborating on CaoCao
 - 📫 You can reach me on mail davidkalabic777@gmail.com
 
