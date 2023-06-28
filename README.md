@@ -1,4 +1,4 @@
-       MyProfile(
+       class MyProfile(
           username: '@kalaqic',
           age: 18,
           collaborations: 'CaoCao',
