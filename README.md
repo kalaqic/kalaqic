@@ -1,7 +1,9 @@
        class DavidKalabic(
           username: '@kalaqic',
           age: 20,
-          collaborations: 'CaoCao | IOS & Android App', 'Fura | Website'
+          currently_based: Slovenia, Novo mesto,
+          studying: 'Multimedian Production',
+          collaborations: 'CaoCao | IOS & Android App', 'Fura | Website',
           learning: 'how to live properly :D',
           email: 'davidkalabic777@gmail.com',
           phone: +38669423089 (Slovenian)
