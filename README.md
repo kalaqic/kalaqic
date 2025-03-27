@@ -1,7 +1,7 @@
        class DavidKalabic(
           username: '@kalaqic',
-          age: 18,
-          collaborations: 'CaoCao',
+          age: 20,
+          collaborations: 'CaoCao | Mobile App', 'Fura | Website'
           learning: 'how to live properly :D',
           email: 'davidkalabic777@gmail.com',
         );
